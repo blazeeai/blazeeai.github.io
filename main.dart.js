@@ -87101,7 +87101,7 @@ m===$&&A.a()
 if(m.a.ax){q=A.X(a,s,q).w
 q=A.pR(B.cZ,A.b([A.a8(s,s,B.h,A.T(38,158,158,158),s,s,350,s,s,q.a.a),A.abr(s,A.a8(s,A.Oa(A.bH(A.b([A.bH(s,A.a6(s,s,s,s,s,s,s,s,s,s,s,60,s,s,B.l,s,s,!0,s,s,s,s,s,s,s,s),"Empowering "),A.bH(s,A.a6(s,s,$.by(),s,s,s,s,s,s,s,s,60,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),"anyone"),A.bH(s,A.a6(s,s,s,s,s,s,s,s,s,s,s,60,s,s,B.l,s,s,!0,s,s,s,s,s,s,s,s)," to maximize investments and "),A.bH(s,A.a6(s,s,$.by(),s,s,s,s,s,s,s,s,60,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),"grow their portfolios")],t.VO),s,s),s,B.co),B.h,s,s,s,250,new A.ad(50,0,50,0),s,s),s,s,20,20,50,s)],t.p),B.ah,B.cQ)}else q=A.a8(s,s,B.h,s,s,s,s,s,s,s)
 m=t.p
-return A.jv(p,B.j,A.mP(new A.kB(A.a8(s,A.c3(A.b([A.a8(s,q,B.h,s,s,s,290,s,s,s),A.a4(s,60,s),A.a4(s,20,s),A.a8(s,A.bU(A.b([A.a8(s,A.c3(A.b([A.bU(A.b([A.a8(s,A.a_("What we do",s,s,s,A.a6(s,s,s,s,s,s,s,s,s,s,s,40,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.h,s,s,s,s,new A.ad(50,0,50,0),s,s)],m),B.q,B.C,B.o),A.a4(s,10,s),A.a8(s,A.Oa(A.bH(A.b([A.bH(s,A.a6(s,s,$.by(),s,s,s,s,s,s,s,s,20,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),"blaze "),A.bH(s,A.a6(s,s,s,s,s,s,s,s,s,s,s,20,s,s,B.l,s,s,!0,s,s,s,s,s,s,s,s),"is an AI-driven and automated portfolio management app that tailors risk and return to your unique financial targets and risk tolerance, ensuring optimized investment outcomes.")],t.VO),s,s),s,B.dz),B.h,s,s,s,s,new A.ad(50,0,50,0),s,700)],m),B.cx,B.C,B.o),B.h,s,s,s,200,s,s,s),A.a4(s,s,50),A.a8(s,new A.Ia(A.bC(50),A.yx("images/home1.jpeg",B.Ar,300,500),s),B.h,s,s,s,s,s,new A.ad(5,5,5,5),s)],m),B.q,B.C,B.o),B.h,s,s,s,350,s,s,s),A.fh(A.T(B.c.a9(127.5),158,158,158),s),A.a4(s,40,s)],m),B.q,B.C,B.o),B.h,s,s,s,s,s,s,n.a.a),s),B.cj,B.a7),o,r)}}
+return A.jv(p,B.j,A.mP(new A.kB(A.a8(s,A.c3(A.b([A.a8(s,q,B.h,s,s,s,290,s,s,s),A.a4(s,60,s),A.a4(s,20,s),A.a8(s,A.bU(A.b([A.a8(s,A.c3(A.b([A.bU(A.b([A.a8(s,A.a_("What we do",s,s,s,A.a6(s,s,s,s,s,s,s,s,s,s,s,40,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.h,s,s,s,s,new A.ad(50,0,50,0),s,s)],m),B.q,B.C,B.o),A.a4(s,10,s),A.a8(s,A.Oa(A.bH(A.b([A.bH(s,A.a6(s,s,$.by(),s,s,s,s,s,s,s,s,20,s,s,B.L,s,s,!0,s,s,s,s,s,s,s,s),"blaze "),A.bH(s,A.a6(s,s,s,s,s,s,s,s,s,s,s,20,s,s,B.l,s,s,!0,s,s,s,s,s,s,s,s),"is an AI-driven and automated portfolio management app that tailors risk and return to your unique financial targets and risk tolerance, ensuring optimized investment outcomes.")],t.VO),s,s),s,B.dz),B.h,s,s,s,s,new A.ad(50,0,50,0),s,700)],m),B.cx,B.C,B.o),B.h,s,s,s,200,s,s,s),A.a4(s,s,50),A.a8(s,new A.Ia(A.bC(50),A.yx("assets/images/home1.jpeg",B.Ar,300,500),s),B.h,s,s,s,s,s,new A.ad(5,5,5,5),s)],m),B.q,B.C,B.o),B.h,s,s,s,350,s,s,s),A.fh(A.T(B.c.a9(127.5),158,158,158),s),A.a4(s,40,s)],m),B.q,B.C,B.o),B.h,s,s,s,s,s,s,n.a.a),s),B.cj,B.a7),o,r)}}
 A.ahp.prototype={
 $1(a){var s=this.a
 s.ab(new A.aho(s))},
@@ -87265,7 +87265,7 @@ s=A.X(o,k,s).w
 o=$.by()
 n=A.bC(20)
 m=t.p
-return A.a8(k,A.bU(A.b([A.c3(A.b([j,r,q,p,A.a8(k,A.bd(A.a_("Try for free",k,k,k,A.a6(k,k,B.j,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k),new A.akQ(l),k),B.h,k,k,new A.b7(o,k,k,n,k,k,B.x),50,new A.ad(20,0,0,0),k,s.a.a*0.35),A.a4(k,10,k)],m),B.cx,B.ab,B.o),A.a4(k,k,50),A.c3(A.b([A.yx("images/home2.jpg",k,600,700)],m),B.q,B.C,B.o)],m),B.q,B.C,B.o),B.h,k,k,k,k,new A.ad(20,0,10,0),k,k)},
+return A.a8(k,A.bU(A.b([A.c3(A.b([j,r,q,p,A.a8(k,A.bd(A.a_("Try for free",k,k,k,A.a6(k,k,B.j,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k),new A.akQ(l),k),B.h,k,k,new A.b7(o,k,k,n,k,k,B.x),50,new A.ad(20,0,0,0),k,s.a.a*0.35),A.a4(k,10,k)],m),B.cx,B.ab,B.o),A.a4(k,k,50),A.c3(A.b([A.yx("assets/images/home2.jpg",k,600,700)],m),B.q,B.C,B.o)],m),B.q,B.C,B.o),B.h,k,k,k,k,new A.ad(20,0,10,0),k,k)},
 ali(){var s,r,q,p,o,n,m=this,l=null,k=A.a_("AI-Powered ",l,l,l,A.a6(l,l,$.by(),l,l,l,l,l,l,l,l,35,l,l,B.L,l,l,!0,l,l,l,l,l,l,l,l),l,l),j=m.c
 j.toString
 s=t.w
@@ -87598,7 +87598,7 @@ k.push(A.a4(g,10,g))
 r=h.c
 r.toString
 s=A.X(r,g,s).w
-k.push(A.a1z(A.a8(g,A.bU(A.b([A.yx("images/google.png",g,30,30),A.a4(g,g,20),A.a_("Continue with Google",g,g,g,A.a6(g,g,B.k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],q),B.q,B.C,B.o),B.h,g,g,g,50,g,g,s.a.a*0.9),new A.alZ(h)))
+k.push(A.a1z(A.a8(g,A.bU(A.b([A.yx("assets/images/google.png",g,30,30),A.a4(g,g,20),A.a_("Continue with Google",g,g,g,A.a6(g,g,B.k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],q),B.q,B.C,B.o),B.h,g,g,g,50,g,g,s.a.a*0.9),new A.alZ(h)))
 return A.cR(A.a8(g,A.c3(k,B.q,B.ab,B.o),B.h,g,g,g,g,g,g,f.a.a*0.25),g,g)},
 f8(){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=h.c
 f.toString
@@ -87636,7 +87636,7 @@ k.push(A.a4(g,10,g))
 r=h.c
 r.toString
 s=A.X(r,g,s).w
-k.push(A.a1z(A.a8(g,A.bU(A.b([A.yx("images/google.png",g,30,30),A.a4(g,g,20),A.a_("Continue with Google",g,g,g,A.a6(g,g,B.k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],q),B.q,B.C,B.o),B.h,g,g,g,50,g,g,s.a.a*0.9),new A.am7(h)))
+k.push(A.a1z(A.a8(g,A.bU(A.b([A.yx("assets/images/google.png",g,30,30),A.a4(g,g,20),A.a_("Continue with Google",g,g,g,A.a6(g,g,B.k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],q),B.q,B.C,B.o),B.h,g,g,g,50,g,g,s.a.a*0.9),new A.am7(h)))
 return A.cR(A.a8(g,A.c3(k,B.q,B.ab,B.o),B.h,g,g,g,g,g,g,f.a.a*0.9),g,g)}}
 A.alW.prototype={
 $0(){},
@@ -88021,7 +88021,7 @@ k.push(A.a4(g,10,g))
 r=h.c
 r.toString
 s=A.X(r,g,s).w
-k.push(A.a1z(A.a8(g,A.bU(A.b([A.yx("images/google.png",g,30,30),A.a4(g,g,20),A.a_("Continue with Google",g,g,g,A.a6(g,g,B.k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],q),B.q,B.C,B.o),B.h,g,g,g,50,g,g,s.a.a*0.9),new A.aoy(h)))
+k.push(A.a1z(A.a8(g,A.bU(A.b([A.yx("assets/images/google.png",g,30,30),A.a4(g,g,20),A.a_("Continue with Google",g,g,g,A.a6(g,g,B.k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],q),B.q,B.C,B.o),B.h,g,g,g,50,g,g,s.a.a*0.9),new A.aoy(h)))
 return A.cR(A.a8(g,A.c3(k,B.q,B.ab,B.o),B.h,g,g,g,g,g,g,f.a.a*0.25),g,g)},
 f8(){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=h.c
 f.toString
@@ -88055,7 +88055,7 @@ k.push(A.a4(g,10,g))
 r=h.c
 r.toString
 s=A.X(r,g,s).w
-k.push(A.a1z(A.a8(g,A.bU(A.b([A.yx("images/google.png",g,30,30),A.a4(g,g,20),A.a_("Continue with Google",g,g,g,A.a6(g,g,B.k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],q),B.q,B.C,B.o),B.h,g,g,g,50,g,g,s.a.a*0.9),new A.aoG(h)))
+k.push(A.a1z(A.a8(g,A.bU(A.b([A.yx("assets/images/google.png",g,30,30),A.a4(g,g,20),A.a_("Continue with Google",g,g,g,A.a6(g,g,B.k,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],q),B.q,B.C,B.o),B.h,g,g,g,50,g,g,s.a.a*0.9),new A.aoG(h)))
 return A.cR(A.a8(g,A.c3(k,B.q,B.ab,B.o),B.h,g,g,g,g,g,g,f.a.a*0.9),g,g)}}
 A.aov.prototype={
 $0(){},
